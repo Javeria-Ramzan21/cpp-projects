@@ -2,6 +2,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "Hello, AI Course!" << endl;
+    cout << "Hello, AI Course! This is from the cloned repository!" << endl;
     return 0;
 }
