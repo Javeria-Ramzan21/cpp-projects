@@ -1,3 +1,4 @@
+// This is my first C++ program for the AI course assignment
 #include <iostream>
 using namespace std;
 int main() {
